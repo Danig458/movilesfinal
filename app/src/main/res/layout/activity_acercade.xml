@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondop"
+    tools:context=".Acercade">
+
+    <ImageView
+        android:id="@+id/fotol"
+        android:layout_width="110dp"
+        android:layout_height="226dp"
+        android:src="@drawable/pensando"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        />
+
+    <ImageView
+        android:id="@+id/fotop"
+        android:layout_width="110dp"
+        android:layout_height="226dp"
+        android:src="@drawable/fotoper"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        />
+
+
+    <TextView
+        android:id="@+id/tituload"
+        app:layout_constraintVertical_bias="0.250"
+        android:text="Un rincon de mi tierra"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:fontFamily="sans-serif-light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@color/skyblue"/>
+
+    <TextView
+        android:id="@+id/acercadd"
+        app:layout_constraintVertical_bias="0.50"
+        android:text="Holi, un gusto en saludarte,mi nombre es Daniela Gonzalez soy Desarrolladora de Software en aplicativos moviles Rincon de mi tierra es un espacio donde puedes conocer un poco sobre la cultura y tradiciones de mi lugar favorito espero navegues y conozcas estes proyecto Que esperas veni a darte un pasoncito pues"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:fontFamily="sans-serif-light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+
+</android.support.constraint.ConstraintLayout>
+
+
