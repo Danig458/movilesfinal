@@ -18,6 +18,20 @@
     <string name="acercade">Holi, un gusto en saludarte,mi nombre es Daniela Gonzalez soy Desarrolladora de Software en aplicativos moviles Rincon de mi tierra es un espacio donde puedes conocer un poco sobre la cultura y tradiciones de mi lugar favorito espero navegues y conozcas estes proyecto
         !!Que esperas veni a darte un pasoncito pues</string>
 
+    <string name="titulohotel">HOTEL RIVIERA DEL SOL</string>
+    <string name="preciohotel"></string>
+    <string name="titulosrestaurantes">HOTEL MIRADOR DE ARBOLETES</string>
+    <string name="platoespecial">PLATO ESPECIAL</string>
+    <string name="descripcionplato">cazuela de mariscos acompañado de arroz frito de coco y patacones crocantes</string>
+    <string name="preciotitulo">PRECIOS</string>
+    <string name="preciosplato">$Desde 10.000 Hasta 45.000</string>
+    <string name="titulot">PLAYAS ARBOLETES</string>
+    <string name="titulote">TELEFONO</string>
+    <string name="telefonot">+57 3212672736</string>
+    <string name="preciot">PRECIO</string>
+    <string name="valors">ENTRADA LIBRE</string>
+
+
 </resources>
 
  

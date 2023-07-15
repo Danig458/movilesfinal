@@ -15,5 +15,17 @@
 
     <string name="tituload">O canto da minha terra</string>
     <string name="acercade">Olá, prazer em conhecê-lo! Meu nome é Daniela Gonzalez e sou uma Desenvolvedora de Software especializada em aplicativos móveis. Rincon de mi tierra é um lugar onde você pode aprender um pouco sobre a cultura e as tradições do meu local favorito. Espero que você explore e conheça este projeto. O que você está esperando? Venha dar um pequeno passo adiante!</string>
+    <string name="titulohotel">HOTEL RIVIERA DO SOL</string>
+    <string name="preciohotel">A partir de 90.000 COP.</string>
+    <string name="titulosrestaurantes">ARBOLETAS VER HOTEL</string>
+    <string name="platoespecial">PRATO ESPECIAL</string>
+    <string name="descripcionplato">ensopado de frutos do mar acompanhado de arroz frito com coco e banana-da-terra crocante.</string>
+    <string name="preciotitulo">PREÇOS</string>
+    <string name="preciosplato">De $10.000 a $45.000.</string>
+    <string name="titulot">PRAIAS DE ARBOLETES</string>
+    <string name="titulote">TELEFONE</string>
+    <string name="telefonot">+57 3212672736</string>
+    <string name="preciot">PREÇO</string>
+    <string name="valors">ENTRADA GRATUITA</string>
 
 </resources>
