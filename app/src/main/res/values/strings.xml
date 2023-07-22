@@ -19,12 +19,14 @@
         !!Que esperas veni a darte un pasoncito pues</string>
 
     <string name="titulohotel">HOTEL RIVIERA DEL SOL</string>
-    <string name="preciohotel"></string>
+    <string name="preciohotel">Desde 90.000 cop</string>
+
     <string name="titulosrestaurantes">HOTEL MIRADOR DE ARBOLETES</string>
     <string name="platoespecial">PLATO ESPECIAL</string>
     <string name="descripcionplato">cazuela de mariscos acompañado de arroz frito de coco y patacones crocantes</string>
     <string name="preciotitulo">PRECIOS</string>
-    <string name="preciosplato">$Desde 10.000 Hasta 45.000</string>
+    <string name="preciosplato">$Desde 59.000</string>
+
     <string name="titulot">PLAYAS ARBOLETES</string>
     <string name="titulote">TELEFONO</string>
     <string name="telefonot">+57 3212672736</string>

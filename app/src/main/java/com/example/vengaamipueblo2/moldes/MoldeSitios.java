@@ -1,10 +1,10 @@
 package com.example.vengaamipueblo2.moldes;
 
 public class MoldeSitios {
-    String nombre;
-    String telefono;
-    String precio;
-    int foto;
+    private String nombre;
+    private String telefono;
+    private String precio;
+    private int foto;
 
     public MoldeSitios() {
     }
